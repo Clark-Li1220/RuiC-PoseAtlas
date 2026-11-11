@@ -20,8 +20,8 @@ export const UI = {
     ariaCollection: '切换图集',
     eyebrow: 'RuiC ・ POSE ATLAS ・ AI 绘画 / 3D / 摄影姿势参考',
     skip: '跳到图库',
-    h1a: '姿势图鉴',
-    h1b: '数据库',
+    h1a: '小熊虫',
+    h1b: '搞点姿势',
     heroSub:
       '去脸灰色人台线稿（3:4）。正面、斜侧、侧面、俯视、仰视五种视角，方便逐帧对照与构图推敲。',
     languageLabel: '切换语言',
@@ -105,8 +105,8 @@ export const UI = {
     ariaCollection: 'Switch atlas',
     eyebrow: 'RuiC · POSE ATLAS · AI ART / 3D / PHOTO POSE REFERENCE',
     skip: 'Skip to gallery',
-    h1a: 'Pose Atlas',
-    h1b: 'Database',
+    h1a: '小熊虫',
+    h1b: '搞点姿势',
     heroSub:
       'Faceless gray mannequin line art in 3:4. Compare front, three-quarter, side, high-angle and low-angle views while building poses and compositions.',
     languageLabel: 'Switch language',
@@ -190,8 +190,8 @@ export const UI = {
     ariaCollection: '図鑑を切り替え',
     eyebrow: 'RuiC ・ POSE ATLAS ・ AI絵画 / 3D / 写真ポーズ参考',
     skip: 'ギャラリーへ移動',
-    h1a: 'ポーズ図鑑',
-    h1b: 'データベース',
+    h1a: '小熊虫',
+    h1b: '搞点姿势',
     heroSub:
       '顔なしグレーマネキンの線画（3:4）。正面・斜め・横・上から・下からの5アングルで、ポーズと構図をじっくり見比べられます。',
     languageLabel: '言語を切り替え',
